@@ -1,1 +1,2 @@
-"hello from Corey Buchan" 
+hello from Corey Buchan
+goodbye from Corey Buchan 
